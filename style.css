@@ -1,0 +1,11 @@
+#searchsubmit, .styles .post-password-required input[type="submit"], #respond input#submit { background-image: none; }
+
+body .site {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#masthead, #main, #colophon {
+	padding-left: 2.85714rem;
+	padding-right: 2.85714rem;
+}
