@@ -5,7 +5,7 @@ Author URI: http://brainstormmedia.com
 Tags: css, stylesheet, appearance, customize, customizer, colors, color picker, background, fonts, google fonts, user interface, 2012, twenty twelve
 Requires at least: 3.4
 Tested up to: 3.5.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 Be creative with colors and fonts. Styles changes everything.
 
@@ -93,6 +93,10 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Changelog ==
 
+= 1.0.4 = 
+
+* Fix: Set higher priority on header title text. (Avoids conflict with global settings.)
+
 = 1.0.3 =
 
 * Fix: (Minor) Prevent multiple notices from being displayed if several Styles child plugins are active and requesting changes.
@@ -109,6 +113,4 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Upgrade Notice ==
 
-* Add: Notice if users don't have Styles 1.0.7 or higher installed.
-* Add: Guide new users to install Styles if this add-on is installed, but Styles is not.
-* Fix: (Minor) Prevent multiple notices from being displayed if several Styles child plugins are active and requesting changes.
+* Fix: Set higher priority on header title text. (Avoids conflict with global settings.)
