@@ -3,7 +3,7 @@
 Plugin Name: Styles: TwentyTwelve
 Plugin URI: http://stylesplugin.com
 Description: Add Customize options to the <a href="http://wordpress.org/extend/themes/twentytwelve" target="_blank">TwentyTwelve theme</a> using the <a href="http://wordpress.org/extend/plugins/styles/" target="_blank">Styles plugin</a>.
-Version: 1.0.4
+Version: 1.0.5
 Author: Brainstorm Media
 Author URI: http://brainstormmedia.com
 
