@@ -5,7 +5,7 @@ Author URI: http://brainstormmedia.com
 Tags: css, stylesheet, appearance, customize, customizer, colors, color picker, background, fonts, google fonts, user interface, 2012, twenty twelve
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 
 Be creative with colors and fonts. Styles changes everything.
 
@@ -93,6 +93,10 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Changelog ==
 
+= 1.0.6 =
+
+* Fix: Error that caused pages to be slightly narrower than normal.
+
 = 1.0.5 =
 
 * Fix: (Minor) Remove notices that would display in wp-admin if `WP_DEBUG` were enabled.
@@ -117,4 +121,6 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Upgrade Notice ==
 
-Fix: (Minor) Remove notices that would display in wp-admin if `WP_DEBUG` were enabled.
+= 1.0.6 =
+
+* Fix: Error that caused pages to be slightly narrower than normal.
