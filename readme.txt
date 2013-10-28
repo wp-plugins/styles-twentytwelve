@@ -95,7 +95,7 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 = 1.0.6 =
 
-* Fix: Error that caused pages to be slightly narrower than normal.
+* Fix: Error that caused pages to be slightly narrower than normal. Thanks [@wholthof](http://wordpress.org/support/topic/website-1-inch-smaller-with-styles).
 
 = 1.0.5 =
 
@@ -123,4 +123,4 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 = 1.0.6 =
 
-* Fix: Error that caused pages to be slightly narrower than normal.
+* Fix: Error that caused pages to be slightly narrower than normal. Thanks [@wholthof](http://wordpress.org/support/topic/website-1-inch-smaller-with-styles).
