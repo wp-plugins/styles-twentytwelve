@@ -5,7 +5,7 @@ Author URI: http://brainstormmedia.com
 Tags: css, stylesheet, appearance, customize, customizer, colors, color picker, background, fonts, google fonts, user interface, 2012, twenty twelve
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 
 Be creative with colors and fonts. Styles changes everything.
 
@@ -93,9 +93,13 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Changelog ==
 
+= 1.0.7 =
+
+* Fix: Allow footer link text size to override global link text size. Thanks [@bper](http://wordpress.org/support/topic/twentytwelve-theme-footer).
+
 = 1.0.6 =
 
-* Fix: Error that caused pages to be slightly narrower than normal. Thanks [@wholthof](http://wordpress.org/support/topic/website-1-inch-smaller-with-styles).
+* Fix: Error that caused pages to be slightly narrower than normal.
 
 = 1.0.5 =
 
@@ -121,6 +125,6 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Upgrade Notice ==
 
-= 1.0.6 =
+= 1.0.7 =
 
-* Fix: Error that caused pages to be slightly narrower than normal. Thanks [@wholthof](http://wordpress.org/support/topic/website-1-inch-smaller-with-styles).
+* Fix: Allow footer link text size to override global link text size. Thanks [@bper](http://wordpress.org/support/topic/twentytwelve-theme-footer).
