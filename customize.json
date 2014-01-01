@@ -294,7 +294,7 @@
 		{ "selector": "footer[role='contentinfo']", "type": "background-color", "label": "Area" },
 		{ "selector": "footer[role='contentinfo']", "type": "border-top-color", "label": "Area" },
 		/* Credit */
-		{ "selector": "#page .site-info", "type": "text", "label": "Credit" },
+		{ "selector": "#page .site-info, #page .site-info a", "type": "text", "label": "Credit" },
 		{ "selector": "#page .site-info a", "type": "color", "label": "Credit link" },
 		{ "selector": "#page .site-info a:hover", "type": "color", "label": "Credit link" },
 		{}
