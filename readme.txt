@@ -1,11 +1,11 @@
 === Styles: TwentyTwelve ===
-Contributors: brainstormmedia, pdclark, elusivelight
+Contributors: 10up, pdclark, elusivelight
 Plugin URI: http://stylesplugin.com
-Author URI: http://brainstormmedia.com
+Author URI: http://pdclark.com
 Tags: css, stylesheet, appearance, customize, customizer, colors, color picker, background, fonts, google fonts, user interface, 2012, twenty twelve
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 1.0.7
+Stable tag: 1.0.6
 
 Be creative with colors and fonts. Styles changes everything.
 
@@ -93,10 +93,6 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Changelog ==
 
-= 1.0.7 =
-
-* Fix: Allow footer link text size to override global link text size. Thanks [@bper](http://wordpress.org/support/topic/twentytwelve-theme-footer).
-
 = 1.0.6 =
 
 * Fix: Error that caused pages to be slightly narrower than normal.
@@ -125,6 +121,6 @@ No! Styles is very careful about only loading what is needed to get its job done
 
 == Upgrade Notice ==
 
-= 1.0.7 =
+= 1.0.6 =
 
-* Fix: Allow footer link text size to override global link text size. Thanks [@bper](http://wordpress.org/support/topic/twentytwelve-theme-footer).
+* Fix: Error that caused pages to be slightly narrower than normal.
