@@ -5,7 +5,7 @@ Author URI: http://pdclark.com
 Tags: css, stylesheet, appearance, customize, customizer, colors, color picker, background, fonts, google fonts, user interface, 2012, twenty twelve
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 
 Be creative with colors and fonts. Styles changes everything.
 
@@ -92,6 +92,10 @@ If you would like to sell your add-on at [stylesplugin.com](http://stylesplugin.
 No! Styles is very careful about only loading what is needed to get its job done. Once you're done editing, stylesheets are cached and loaded for your sites users as quickly as possible.
 
 == Changelog ==
+
+= 1.0.7 =
+
+* Fix: Credit link color.
 
 = 1.0.6 =
 
